@@ -23,4 +23,4 @@ async def imgurl(p_image_url: str):
 
 if __name__ == '__main__':
    import uvicorn
-   uvicorn.run(app, host="0.0.0.0", port=8080, debug=True) 
+   uvicorn.run(app, host="3.7.8", port=8080, debug=True) 
